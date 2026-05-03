@@ -1,0 +1,82 @@
+tile.doggytalents.dogbed.name=Higaan ng Aso
+tile.doggytalents.foodbowl.name=Lalagyan ng Pagkain
+tile.doggytalents.dogbath.name=Paliguan ng Aso
+
+title.doggytalents.config.name=Mga Setting ng Doggy Talents
+modgui.config.doggysettings=Mga Setting ng Aso
+modgui.config.doggysettings.tooltip=Dito mo maaaring baguhin ang mga detalye ng iyong aso.
+modgui.config.general=Pangkalahatang Setting
+modgui.config.general.tooltip=Iba pang mga bagay
+modgui.config.talents=Mga Talento
+modgui.config.talents.tooltip=I-on o i-off ang mga talento
+
+item.doggytalents.throwbone0.name=Buto na Inihahagis
+item.doggytalents.throwbone1.name=Buto na may Laway
+item.doggytalents.throwbone2.name=Istal na Inihahagis
+item.doggytalents.throwbone3.name=Istal na may Laway
+item.doggytalents.trainingtreat.name=Pagkain para sa Pagsasanay
+item.doggytalents.supertreat.name=Super na Pagkain
+item.doggytalents.mastertreat.name=Master na Pagkain
+item.doggytalents.diretreat.name=Dire na Pagkain
+item.doggytalents.breedingbone.name=Buto para sa Pagpaparami
+item.doggytalents.doggycharm.name=Agimat ng Aso
+item.doggytalents.collarshears.name=Gunting ng Kuwelyo
+item.doggytalents.commandemblem.name=Sagisag ng Utos
+item.doggytalents.radiocollar.name=Radio Collar
+item.doggytalents.woolcollar.name=Kuwelyong Lana
+item.doggytalents.fancycollar0.name=Malikhaing Kuwelyo
+item.doggytalents.fancycollar1.name=Kuwelyong may Batik-batik
+item.doggytalents.fancycollar2.name=Makulay na Kuwelyo
+item.doggytalents.radar.name=Radar
+item.doggytalents.whistle.name=Pito
+item.doggytalents.treatbag.name=Bag ng Pagkain
+item.doggytalents.chewstick.name=Nguyaing Istal
+item.doggytalents.cape.name=Kapa na Tartan
+item.doggytalents.sunglasses.name=Salamin sa Mata ng Aso
+item.doggytalents.capecoloured.name=Makulay na Kapa
+item.doggytalents.leatherjacket.name=Jaket na Balat
+item.doggytalents.tinybone.name=Maliit na Buto
+item.doggytalents.bigbone.name=Malaking Buto
+
+doggui.talentname.blackpelt=Itim na Balahibo
+doggui.talentname.guarddog=Asong Bantay
+doggui.talentname.hunterdog=Asong Mangangaso
+doggui.talentname.hellhound=Asong Impiyerno
+doggui.talentname.wolfmount=Sakyang Lobo
+doggui.talentname.packpuppy=Asong May-dala
+doggui.talentname.pillowpaw=Malambot na Paa
+doggui.talentname.quickhealer=Mabilis Maghilom
+doggui.talentname.creepersweeper=Tagahanap ng Creeper
+doggui.talentname.doggydash=Mabilis na Takbo
+doggui.talentname.fisherdog=Asong Mangingisda
+doggui.talentname.happyeater=Masayang Kumain
+doggui.talentname.bedfinder=Tagahanap ng Higaan
+doggui.talentname.pestfighter=Tagalaban ng Peste
+doggui.talentname.poisonfang=Makamandag na Pangil
+doggui.talentname.shepherddog=Asong Pastol
+doggui.talentname.rescuedog=Asong Tagasagip
+doggui.talentname.puppyeyes=Matang Tuta
+doggui.talentname.swimmerdog=Asong Manlalangoy
+
+doggui.modename.wandering=Naglalakad-lakad
+doggui.modename.tactical=Taktikal
+doggui.modename.aggressive=Agresibo
+doggui.modename.berserker=Berserker
+doggui.modename.docile=Maamo
+doggui.modename.patrol=Nagpapatrolya
+
+dogtreat.levelup=Tumaas ang antas!
+dogtreat.tooyoung=Masyado pang bata ang asong ito para matuto ng mga kasanayan.
+dogtreat.ultimatelevel=PAGBATI! Naabot na ng iyong aso ang pinakamataas na antas!
+
+dogcommand.come=Halika!
+dogcommand.stay=Manatili!
+dogcommand.ok=Sige!
+dogcommand.heel=Sunod!
+
+entity.doggytalents:dog.name=Aso
+entity.doggytalents:dog.lost.name=Walang Amo
+
+container.packpuppy=Lalagyan ng Aso
+container.foodBowl=Lalagyan ng Pagkain
+itemGroup.doggytalents=Doggy Talents
