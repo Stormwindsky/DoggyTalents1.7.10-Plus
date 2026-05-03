@@ -1,0 +1,185 @@
+tile.doggytalents.dogbed.name=Panier pour chien
+tile.doggytalents.foodbowl.name=Gamelle
+tile.doggytalents.dogbath.name=Baignoire pour chien
+
+title.doggytalents.config.name=Configurations Doggy Talents
+modgui.config.doggysettings=Paramètres du chien
+modgui.config.doggysettings.tooltip=Ici, vous pouvez changer les détails concernant votre chien.
+modgui.config.general=Paramètres généraux
+modgui.config.general.tooltip=Autres options
+modgui.config.talents=Talents
+modgui.config.talents.tooltip=Activer et désactiver les talents
+
+item.doggytalents.throwbone0.name=Os à lancer
+item.doggytalents.throwbone1.name=Os à lancer baveux
+item.doggytalents.throwbone2.name=Bâton à lancer
+item.doggytalents.throwbone3.name=Bâton à lancer baveux
+item.doggytalents.trainingtreat.name=Friandise de dressage
+item.doggytalents.supertreat.name=Super friandise
+item.doggytalents.mastertreat.name=Friandise de maître
+item.doggytalents.diretreat.name=Friandise sinistre
+item.doggytalents.breedingbone.name=Os de reproduction
+item.doggytalents.doggycharm.name=Charme canin
+item.doggytalents.collarshears.name=Cisailles à collier
+item.doggytalents.commandemblem.name=Emblème de commande
+item.doggytalents.radiocollar.name=Collier radio
+item.doggytalents.woolcollar.name=Collier en laine
+item.doggytalents.fancycollar0.name=Collier créatif
+item.doggytalents.fancycollar1.name=Collier à pois
+item.doggytalents.fancycollar2.name=Collier multicolore
+item.doggytalents.radar.name=Radar
+item.doggytalents.whistle.name=Sifflet
+item.doggytalents.treatbag.name=Sac de friandises
+item.doggytalents.chewstick.name=Bâton à mâcher
+item.doggytalents.cape.name=Cape en tartan
+item.doggytalents.sunglasses.name=Lunettes de soleil pour chien
+item.doggytalents.capecoloured.name=Cape colorée
+item.doggytalents.leatherjacket.name=Veste en cuir
+item.doggytalents.tinybone.name=Petit os
+item.doggytalents.bigbone.name=Gros os
+
+doggui.talentname.blackpelt=Pelage noir
+doggui.talentname.guarddog=Chien de garde
+doggui.talentname.hunterdog=Chien chasseur
+doggui.talentname.hellhound=Chien de l'enfer
+doggui.talentname.wolfmount=Monture de loup
+doggui.talentname.packpuppy=Chiot de bât
+doggui.talentname.pillowpaw=Pattes de velours
+doggui.talentname.quickhealer=Soin rapide
+doggui.talentname.creepersweeper=Détecteur de Creepers
+doggui.talentname.doggydash=Sprint canin
+doggui.talentname.fisherdog=Chien pêcheur
+doggui.talentname.happyeater=Gros mangeur
+doggui.talentname.bedfinder=Chercheur de lit
+doggui.talentname.pestfighter=Chasseur de nuisibles
+doggui.talentname.poisonfang=Crocs empoisonnés
+doggui.talentname.shepherddog=Chien de berger
+doggui.talentname.rescuedog=Chien sauveteur
+doggui.talentname.puppyeyes=Yeux de chien battu
+doggui.talentname.swimmerdog=Chien nageur
+
+doggui.talentinfo.bedfinder=Lorsqu'un chien possède cette compétence sur votre tête, votre lit sera entouré d'un contour noir. Pour mettre le chien sur votre tête, faites un clic droit avec un os en main. La portée est de 200 blocs par niveau (infinie au niveau 5).
+doggui.talentinfo.blackpelt=Améliore le taux de coups critiques de 1/2 cœur par niveau, plus un cœur supplémentaire au rang Maître.
+doggui.talentinfo.guarddog=Augmente les chances que votre chien bloque complètement une attaque physique.
+doggui.talentinfo.hunterdog=Chaque niveau donne 10% de chances de doubler le butin des proies tuées par le chien (60% max au niveau 5).
+doggui.talentinfo.hellhound=Permet au chien d'enflammer les ennemis. Plus le niveau est élevé, plus le feu dure. Le rang Maître immunise le chien au feu.
+doggui.talentinfo.wolfmount=Permet de monter votre chien. Chaque niveau permet de sauter plus haut. Pour monter, faites un clic droit sur le chien en sautant, les mains vides.
+doggui.talentinfo.packpuppy=Chaque niveau donne 3 emplacements d'inventaire. Faites un clic droit avec une planche en main pour l'ouvrir. Au niveau 5, le chien ramasse les objets au sol automatiquement.
+doggui.talentinfo.pillowpaw=Chaque niveau réduit les dégâts de chute de 3 blocs. Le rang Maître immunise aux chutes et permet de flotter.
+doggui.talentinfo.quickhealer=Améliore la vitesse de guérison naturelle. Le rang Maître guérit 50% plus vite en position assise.
+doggui.talentinfo.creepersweeper=Le chien grogne s'il sent un Creeper. La portée augmente de 6 blocs par niveau. Au rang Maître, il attaque les Creepers et réinitialise leur mèche à chaque coup.
+doggui.talentinfo.doggydash=Augmente la vitesse de déplacement en chasse ou lorsqu'il est monté (+12% par niveau, +15% de bonus au rang Maître).
+doggui.talentinfo.fisherdog=Le chien peut attraper des poissons dans l'eau. Les chances augmentent avec le niveau. Si "Chien de l'enfer" est actif, le poisson peut être cuit. Niveau max : peut respirer sous l'eau.
+doggui.talentinfo.happyeater=Augmente les points de nourriture gagnés de 10% par niveau. Le niveau 3 permet de manger de la chair de zombie et le niveau 5 du poisson.
+doggui.talentinfo.pestfighter=Inflige 1 point de dégât aux poissons d'argent proches. Augmente la portée de 3 blocs par niveau. Le rang Maître double les dégâts.
+doggui.talentinfo.poisonfang=Les attaques empoisonnent la cible. Au niveau 3, le chien est immunisé au poison. Au rang Maître, un œil d'araignée permet de vous purifier contre 30 points de nourriture.
+doggui.talentinfo.shepherddog=Avec du blé en main, le chien portera le bétail proche pour faciliter le transport. Cela coûte de la nourriture au chien. Pour lâcher l'animal, ne tenez plus le blé.
+doggui.talentinfo.rescuedog=Si votre santé est critique, le chien vous soignera de 1/2 cœur par niveau contre 100 points de nourriture (80 au rang Maître).
+doggui.talentinfo.puppyeyes=Le chien charme les villageois pour qu'ils vous fassent des cadeaux (tous les 2 jours max, ou 1 jour au rang Maître).
+doggui.talentinfo.swimmerdog=Permet de monter le chien dans l'eau et de respirer plus longtemps. Au niveau max, le cavalier voit mieux sous l'eau.
+
+doggui.modename.wandering=Errance
+doggui.modename.tactical=Tactique
+doggui.modename.aggressive=Agressif
+doggui.modename.berserker=Berserker
+doggui.modename.docile=Docile
+doggui.modename.patrol=Patrouille
+
+doggui.modetip.wandering=(E)
+doggui.modetip.tactical=(T)
+doggui.modetip.aggressive=(A)
+doggui.modetip.berserker=(B)
+doggui.modetip.docile=(D)
+doggui.modetip.patrol=(P)
+doggui.modetip.incapacitated=(I)
+
+doggui.modeinfo.wandering=Le chien reste près de sa gamelle et attend vos ordres. Pour lier une gamelle, amenez-le à moins d'un bloc de celle-ci.
+doggui.modeinfo.tactical=Le chien vous suit mais n'attaque que si vous utilisez l'emblème de commande.
+doggui.modeinfo.aggressive=Le chien vous suit et attaque tout ce qui vous attaque ou ce que vous attaquez.
+doggui.modeinfo.berserker=Le chien vous suit et attaque tout mob qui s'approche sans prévenir.
+doggui.modeinfo.docile=Le chien vous suit sans attaquer. Il est prêt à jouer avec l'os.
+doggui.modeinfo.patrol=Le chien patrouille entre 2 et 4 points (définis par l'emblème) et attaque les monstres en vue.
+
+doggui.mode.docile.nobowl=Aucune gamelle définie.
+doggui.mode.docile.bowl=Distance de la gamelle : %d
+
+doggui.prevpage=Page précédente
+doggui.nextpage=Page suivante
+doggui.newname=Nouveau nom :
+doggui.level=Niveau :
+doggui.leveldire=Niveau Sinistre :
+doggui.pointsleft=Points restants :
+doggui.textureindex=Index de texture
+doggui.obeyothers=Obéir aux autres ?
+doggui.friendlyfire=Tir allié ?
+
+dogtalent.puppyeyes.1.part1=Villageois : Quel chien mignon ! Prends-en bien soin.
+dogtalent.puppyeyes.1.part2=Tiens, il peut avoir un peu de porc.
+dogtalent.puppyeyes.2.part1=Villageois : Oooh, c'est qui le bon chien-chien ?
+dogtalent.puppyeyes.2.part2=C'est qui le bon pépère ? C'est toi ! OUI C'EST TOI !
+dogtalent.puppyeyes.2.part3=Oui c'est toi ! Et un bon chien doit manger !
+dogtalent.puppyeyes.3.part1=Villageois : Oh mon Dieu ! Où as-tu trouvé cette petite boule
+dogtalent.puppyeyes.3.part2=de bonheur et de loyauté ? Tiens, prends ce
+dogtalent.puppyeyes.3.part3=fer, fabrique du matos et protège ton compagnon !
+dogtalent.puppyeyes.4.part1=Villageois : Je crois que mon cœur vient de devenir
+dogtalent.puppyeyes.4.part2=plus gros que mon nez. Tiens, prends ça.
+dogtalent.puppyeyes.4.part3=Non, j'insiste !
+dogtalent.puppyeyes.5.part1=Villageois : Je voulais juste te dire que tu as
+dogtalent.puppyeyes.5.part2=le meilleur toutou de tout l'univers !
+dogtalent.puppyeyes.5.part3=Et aussi te donner un diamant !
+dogtalent.puppyeyes.6.part1=Villageois : aaaaAAAAAAAAAAAAAAAAAAAAAAAAA
+dogtalent.puppyeyes.6.part2=AAAAAAAAAAAAAAAAAAAaaaaaaaaaa
+dogtalent.puppyeyes.6.part3=aaaaaaaaaOOOOOOOOOOOOOOOOOOH !
+
+dogtalent.puppyeyes.wolfmount.outofhunger=%s : Wouf, wouf, wouf wufff (J'ai faim)
+
+dogbed.bedding.minecraft:wool.0=Literie en laine blanche
+dogbed.bedding.minecraft:wool.1=Literie en laine orange
+dogbed.bedding.minecraft:wool.2=Literie en laine magenta
+dogbed.bedding.minecraft:wool.3=Literie en laine bleu clair
+dogbed.bedding.minecraft:wool.4=Literie en laine jaune
+dogbed.bedding.minecraft:wool.5=Literie en laine vert clair
+dogbed.bedding.minecraft:wool.6=Literie en laine rose
+dogbed.bedding.minecraft:wool.7=Literie en laine grise
+dogbed.bedding.minecraft:wool.8=Literie en laine gris clair
+dogbed.bedding.minecraft:wool.9=Literie en laine cyan
+dogbed.bedding.minecraft:wool.10=Literie en laine violette
+dogbed.bedding.minecraft:wool.11=Literie en laine bleue
+dogbed.bedding.minecraft:wool.12=Literie en laine marron
+dogbed.bedding.minecraft:wool.13=Literie en laine verte
+dogbed.bedding.minecraft:wool.14=Literie en laine rouge
+dogbed.bedding.minecraft:wool.15=Literie en laine noire
+
+dogbed.casing.minecraft:planks.0=Cadre en chêne
+dogbed.casing.minecraft:planks.1=Cadre en sapin
+dogbed.casing.minecraft:planks.2=Cadre en bouleau
+dogbed.casing.minecraft:planks.3=Cadre en acajou
+dogbed.casing.minecraft:planks.4=Cadre en acacia
+dogbed.casing.minecraft:planks.5=Cadre en chêne noir
+
+dogtreat.levelup=Niveau supérieur !
+dogtreat.tooyoung=Ce chien est encore un peu trop jeune pour apprendre des compétences.
+dogtreat.leveltoohigh=Votre chien est d'un niveau trop élevé pour ces friandises.
+dogtreat.toomuch=Votre chien ne peut pas supporter la puissance contenue dans ces friandises.
+dogtreat.ultimatelevel=FÉLICITATIONS ! Votre chien a atteint le niveau ultime !
+
+dogcommand.come=Debout !
+dogcommand.stay=Reste !
+dogcommand.ok=Ok !
+dogcommand.heel=Au pied !
+
+doggytalents.key.come=Commande : Viens
+doggytalents.key.stay=Commande : Reste
+doggytalents.key.ok=Commande : Ok
+doggytalents.key.heel=Commande : Au pied
+doggytalents.key.category=Doggy Talents
+
+entity.doggytalents:dog.name=Chien
+entity.doggytalents.dog.name=Chien
+entity.doggytalents:dog.lost.name=N'a pas de propriétaire
+
+container.packpuppy=Chiot de bât
+container.foodBowl=Gamelle
+container.doggytalents.treatbag=Sac de friandises
+itemGroup.doggytalents=Doggy Talents
+itemGroup.doggytalents.dogbed=Variantes de paniers
