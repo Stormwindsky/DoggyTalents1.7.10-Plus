@@ -1,5 +1,8 @@
-# About DoggyTalents 1.7.10 Plus
 
+# About DoggyTalents 1.7.10 Plus:
+
+
+This is a work-in-progress version created by me, Stormwindsky, to add new features without affecting the base 1.7.10 mod. For now, I'm just going to add additional translations to this mod.
 
 
 
