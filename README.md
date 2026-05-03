@@ -1,3 +1,11 @@
+# About DoggyTalents 1.7.10 Plus
+
+
+
+
+# Original Readme from the original fork from the continuation of 1.7.3
+
+
 Doggy Talents [![Curseforge](http://cf.way2muchnoise.eu/full_doggy-talents_downloads.svg)](https://minecraft.curseforge.com/projects/doggy-talents) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_doggy-talents_all.svg)](https://minecraft.curseforge.com/projects/doggy-talents)
 ===========
 
