@@ -1,0 +1,20 @@
+<!TYPE toki!>
+
+ThumbnailsItems = <
+
+Img = https://www.minecraft-france.fr/wp-content/uploads/2021/09/doggy-talents.png[cite: 4]
+
+Vid = https://www.youtube.com/watch?v=MVxujCYUICgcite: 4]
+
+
+
+
+>
+
+
+
+Icon = <
+
+Pi = https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Dog_drawing_001.jpg/960px-Dog_drawing_001.jpg[cite: 4]
+
+>
