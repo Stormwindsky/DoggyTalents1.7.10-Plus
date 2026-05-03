@@ -1,0 +1,186 @@
+tile.doggytalents.dogbed.name=Ліжко для собаки
+tile.doggytalents.foodbowl.name=Миска для їжі
+tile.doggytalents.dogbath.name=Ванна для собаки
+
+title.doggytalents.config.name=Налаштування Doggy Talents
+modgui.config.doggysettings=Налаштування собаки
+modgui.config.doggysettings.tooltip=Тут ви можете змінити деталі про вашу собаку.
+modgui.config.general=Загальні налаштування
+modgui.config.general.tooltip=Інші речі
+modgui.config.talents=Таланти
+modgui.config.talents.tooltip=Увімкнути або вимкнути таланти
+
+item.doggytalents.throwbone0.name=Кістка для метання
+item.doggytalents.throwbone1.name=Слинява кістка для метання
+item.doggytalents.throwbone2.name=Палиця для метання
+item.doggytalents.throwbone3.name=Слинява палиця для метання
+item.doggytalents.trainingtreat.name=Тренувальні ласощі
+item.doggytalents.supertreat.name=Суперласощі
+item.doggytalents.mastertreat.name=Майстер-ласощі
+item.doggytalents.diretreat.name=Жахливі ласощі
+item.doggytalents.breedingbone.name=Кістка для розмноження
+item.doggytalents.doggycharm.name=§6Собачий амулет
+item.doggytalents.collarshears.name=Ножиці для нашийника
+item.doggytalents.commandemblem.name=Емблема команд
+item.doggytalents.radiocollar.name=Радіонашийник
+item.doggytalents.woolcollar.name=Вовняний нашийник
+item.doggytalents.fancycollar0.name=Творчий нашийник
+item.doggytalents.fancycollar1.name=Плямистий нашийник
+item.doggytalents.fancycollar2.name=Різнобарвний нашийник
+item.doggytalents.radar.name=Радар
+item.doggytalents.whistle.name=Свисток
+item.doggytalents.treatbag.name=Мішечок для ласощів
+item.doggytalents.chewstick.name=Жувальна паличка
+item.doggytalents.cape.name=Шотландська накидка
+item.doggytalents.sunglasses.name=Окуляри для собаки
+item.doggytalents.capecoloured.name=Кольорова накидка
+item.doggytalents.leatherjacket.name=Шкіряна куртка
+item.doggytalents.tinybone.name=Маленька кістка
+item.doggytalents.bigbone.name=Велика кістка
+
+doggui.talentname.blackpelt=Чорна шерсть
+doggui.talentname.guarddog=Сторожовий пес
+doggui.talentname.hunterdog=Мисливський пес
+doggui.talentname.hellhound=Пекельний гончак
+doggui.talentname.wolfmount=Вовча їздова тварина
+doggui.talentname.packpuppy=В’ючне цуценя
+doggui.talentname.pillowpaw=М’які лапи
+doggui.talentname.quickhealer=Швидке зцілення
+doggui.talentname.creepersweeper=Детектор кріперів
+doggui.talentname.doggydash=Собачий ривок
+doggui.talentname.fisherdog=Пес-рибалка
+doggui.talentname.happyeater=Щасливий їдок
+doggui.talentname.bedfinder=Шукач ліжка
+doggui.talentname.pestfighter=Борець зі шкідниками
+doggui.talentname.poisonfang=Отруйне ікло
+doggui.talentname.shepherddog=Вівчарка
+doggui.talentname.rescuedog=Рятувальник
+doggui.talentname.puppyeyes=Очі цуценяти
+doggui.talentname.swimmerdog=Плавець
+
+doggui.talentinfo.bedfinder=Поки собака з цією навичкою у вас на голові, ваше ліжко буде підсвічене чорним контуром. Щоб посадити собаку на голову, клацніть на неї ПКМ з кісткою в руці. Радіус дії дорівнює 200 блокам за кожен рівень, на 5 рівні стає нескінченним.
+doggui.talentinfo.blackpelt=Покращує шанс критичного удару на 1/2 серця за кожен рівень плюс додаткове серце при повному вивченні.
+doggui.talentinfo.guarddog=Збільшує шанс того, що ваша собака повністю заблокує фізичну атаку.
+doggui.talentinfo.hunterdog=Кожен рівень дає 10% шанс того, що здобич, яку вб’є собака, випаде у подвійній кількості. 5 рівень дає додаткові 10% (загалом 60%).
+doggui.talentinfo.hellhound=Дозволяє вашій собаці підпалювати ворогів під час атаки. Що вищий рівень, то довше триває горіння. Повне вивчення дає імунітет до вогню.
+doggui.talentinfo.wolfmount=Дозволяє вам швидко їздити на собаці. Кожен рівень дозволяє стрибати вище. Щоб сісти, майте порожню руку, підстрибніть і клацніть на собаку.
+doggui.talentinfo.packpuppy=Кожен рівень дає 3 слоти інвентарю. Щоб відкрити інвентар, клацніть на собаку ПКМ з дошкою в руці! На 5 рівні собака автоматично підніматиме речі поруч, якщо є місце.
+doggui.talentinfo.pillowpaw=Кожен рівень дозволяє падати на 3 блоки більше без шкоди. Повне вивчення дає імунітет до шкоди від падіння та дозволяє плавно спускатися.
+doggui.talentinfo.quickhealer=Покращує швидкість відновлення здоров’я. Повне вивчення дозволяє зцілюватися на 50% швидше, коли собака сидить.
+doggui.talentinfo.creepersweeper=Собака відчуває кріперів поруч і гарчить, щоб попередити вас. Радіус детекції зростає на 6 блоків за рівень. На 5 рівні собака атакуватиме кріперів і скидатиме їхній таймер вибуху.
+doggui.talentinfo.doggydash=Збільшує швидкість пересування під час переслідування цілі або коли ви їдете верхи. Кожен рівень дає +12%, майстерність дає ще +15%.
+doggui.talentinfo.fisherdog=Коли собака заходить у воду, вона може впіймати рибу. Шанс зростає з рівнем. Навичка "Пекельний гончак" може зробити рибу відразу смаженою. На 5 рівні собака дихає під водою.
+doggui.talentinfo.happyeater=Збільшує кількість NP від їжі на 10% за рівень. На 3 рівні може їсти гнилу плоть, на 5 — рибу.
+doggui.talentinfo.pestfighter=Випадково завдає 1 одиницю шкоди сріблянкам поруч. Кожен рівень збільшує радіус на 3 блоки, майстерність подвоює шкоду.
+doggui.talentinfo.poisonfang=Атаки отруюють ціль, тривалість зростає з рівнем. На 3 рівні імунітет до отрути. Майстерність дозволяє очистити вас від ефектів зілля (ПКМ павучим оком за 30 NP).
+doggui.talentinfo.shepherddog=Тримайте пшеницю в руці, і собака зжене домашню худобу поруч до вас. Це втомлює і коштує NP. Щоб припинити, приберіть пшеницю з рук.
+doggui.talentinfo.rescuedog=Якщо у вас критично мало здоров’я, собака спробує зцілити вас на 1/2 серця за рівень вартістю 100 NP (80 NP на макс. рівні).
+doggui.talentinfo.puppyeyes=Собака розчулює селян, і вони дають вам подарунки! Що вищий рівень, то кращі подарунки. Можна використовувати раз на 2 ігрові дні (раз на день на макс. рівні).
+doggui.talentinfo.swimmerdog=Дозволяє їздити на собаці у воді та довше дихати під водою. На макс. рівні вершник бачить під водою краще.
+
+doggui.modename.wandering=Блукання
+doggui.modename.tactical=Тактичний
+doggui.modename.aggressive=Агресивний
+doggui.modename.berserker=Берсерк
+doggui.modename.docile=Послушний
+doggui.modename.patrol=Патрулювання
+doggui.modename.incapacitated=Поранений
+
+doggui.modetip.wandering=(Бл)
+doggui.modetip.tactical=(Т)
+doggui.modetip.aggressive=(А)
+doggui.modetip.berserker=(Бз)
+doggui.modetip.docile=(Пс)
+doggui.modetip.patrol=(Па)
+doggui.modetip.incapacitated=(Пр)
+
+doggui.modeinfo.wandering=У цьому режимі собака залишається біля своєї миски. Щоб встановити миску, підведіть собаку до неї впритул.
+doggui.modeinfo.tactical=Собака йде за вами, але не атакує, поки ви не використаєте емблему команд.
+doggui.modeinfo.aggressive=Собака йде за вами та атакує кожного, хто нападе на вас або на кого нападете ви.
+doggui.modeinfo.berserker=Собака йде за вами та атакує будь-якого моба, що наблизиться, без попередження.
+doggui.modeinfo.docile=Собака йде за вами, але нікого не атакує. Вона готова гратися з кісткою.
+doggui.modeinfo.patrol=Собака патрулює між 2-4 точками (встановленими емблемою) та атакує монстрів у полі зору.
+
+doggui.mode.docile.nobowl=Миска для їжі не встановлена.
+doggui.mode.docile.bowl=Відстань до миски: %d
+
+doggui.prevpage=Попередня сторінка
+doggui.nextpage=Наступна сторінка
+doggui.newname=Нове ім'я:
+doggui.level=Рівень:
+doggui.leveldire=Жахливий рівень:
+doggui.pointsleft=Залишилося очок:
+doggui.textureindex=Індекс текстури
+doggui.obeyothers=Слухатись інших?
+doggui.friendlyfire=Вогонь по своїх?
+
+dogtalent.puppyeyes.1.part1=Селянин: Який милий песик! Бережи його... чи її.
+dogtalent.puppyeyes.1.part2=Ось, тримай трохи свинини для нього.
+dogtalent.puppyeyes.2.part1=Селянин: Ооо, хто тут у нас хороший хлопчик?
+dogtalent.puppyeyes.2.part2=Хтоооо хороший хлопчик? Ти! САМЕ ТИ!
+dogtalent.puppyeyes.2.part3=Так, ти! А хороший хлопчик має поїсти!
+dogtalent.puppyeyes.3.part1=Селянин: О божечки! Де ти взяв цей клубочок
+dogtalent.puppyeyes.3.part2=щастя та відданості? Ось, тримай це
+dogtalent.puppyeyes.3.part3=залізо, зроби спорядження, бережи свого друга!
+dogtalent.puppyeyes.4.part1=Селянин: Здається, моє серце щойно стало більшим за
+dogtalent.puppyeyes.4.part2=мій ніс. Ось, візьми це.
+dogtalent.puppyeyes.4.part3=Ні, я наполягаю!
+dogtalent.puppyeyes.5.part1=Селянин: Просто хочу сказати, що у тебе
+dogtalent.puppyeyes.5.part2=найкращий песик у всесвіті!
+dogtalent.puppyeyes.5.part3=І ще хочу дати тобі алмаз!
+dogtalent.puppyeyes.6.part1=Селянин: ааааААААААААААААААААААААААААА
+dogtalent.puppyeyes.6.part2=АААААААААААААААААААааааааааа
+dogtalent.puppyeyes.6.part3=аааааааааААААААААААААУУУУУУ!
+
+dogtalent.puppyeyes.wolfmount.outofhunger=%s: Гав, гав, гав гааав (Дайте їсти)
+
+dogbed.bedding.minecraft:wool.0=Біла підстилка
+dogbed.bedding.minecraft:wool.1=Помаранчева підстилка
+dogbed.bedding.minecraft:wool.2=Пурпурова підстилка
+dogbed.bedding.minecraft:wool.3=Світло-синя підстилка
+dogbed.bedding.minecraft:wool.4=Жовта підстилка
+dogbed.bedding.minecraft:wool.5=Лаймова підстилка
+dogbed.bedding.minecraft:wool.6=Рожева підстилка
+dogbed.bedding.minecraft:wool.7=Сіра підстилка
+dogbed.bedding.minecraft:wool.8=Світло-сіра підстилка
+dogbed.bedding.minecraft:wool.9=Бірюзова підстилка
+dogbed.bedding.minecraft:wool.10=Фіолетова підстилка
+dogbed.bedding.minecraft:wool.11=Синя підстилка
+dogbed.bedding.minecraft:wool.12=Коричнева підстилка
+dogbed.bedding.minecraft:wool.13=Зелена підстилка
+dogbed.bedding.minecraft:wool.14=Червона підстилка
+dogbed.bedding.minecraft:wool.15=Чорна підстилка
+
+dogbed.casing.minecraft:planks.0=Дубовий каркас
+dogbed.casing.minecraft:planks.1=Ялиновий каркас
+dogbed.casing.minecraft:planks.2=Березовий каркас
+dogbed.casing.minecraft:planks.3=Тропічний каркас
+dogbed.casing.minecraft:planks.4=Акацієвий каркас
+dogbed.casing.minecraft:planks.5=Каркас із темного дуба
+
+dogtreat.levelup=Новий рівень!
+dogtreat.tooyoung=Ця собака ще надто молода для вивчення навичок.
+dogtreat.leveltoohigh=Рівень собаки занадто високий для цих ласощів.
+dogtreat.toomuch=Ваша собака не витримає великої сили цих ласощів.
+dogtreat.ultimatelevel=ВІТАЄМО! Ваша собака досягла найвищого рівня!
+
+dogcommand.come=Стояти!
+dogcommand.stay=Місце!
+dogcommand.ok=Добре!
+dogcommand.heel=До ноги!
+
+doggytalents.key.come=Команда "До мене"
+doggytalents.key.stay=Команда "Місце"
+doggytalents.key.ok=Команда "Окей"
+doggytalents.key.heel=Команда "До ноги"
+doggytalents.key.category=Doggy Talents
+
+entity.doggytalents:dog.name=Пес
+entity.doggytalents.dog.name=Пес
+entity.doggytalents:dog.lost.name=Без господаря
+
+container.packpuppy=В’ючне цуценя
+container.foodBowl=Миска для їжі
+container.doggytalents.treatbag=Мішечок для ласощів
+itemGroup.doggytalents=Doggy Talents
+itemGroup.doggytalents.dogbed=Варіанти ліжок
