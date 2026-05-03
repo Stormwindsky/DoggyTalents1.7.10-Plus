@@ -1,0 +1,138 @@
+tile.doggytalents.dogbed.name=Scurvy Dog's Berth
+tile.doggytalents.foodbowl.name=Grog & Grub Basin
+tile.doggytalents.dogbath.name=The Scuppers
+
+title.doggytalents.config.name=The Captain's Ledger
+modgui.config.doggysettings=Beast Settings
+modgui.config.doggysettings.tooltip=Alter the nature of your salty sea-dog here.
+modgui.config.general=General Provisions
+modgui.config.general.tooltip=Other nautical matters
+modgui.config.talents=Hidden Riches
+modgui.config.talents.tooltip=Toggle the tricks of the trade
+
+item.doggytalents.throwbone0.name=Toss the Marrow
+item.doggytalents.throwbone1.name=Slobbery Marrow
+item.doggytalents.throwbone2.name=Toss the Timber
+item.doggytalents.throwbone3.name=Slobbery Timber
+item.doggytalents.trainingtreat.name=Deckhand's Biscuit
+item.doggytalents.supertreat.name=Quartermaster's Cracker
+item.doggytalents.mastertreat.name=Captain's Hardtack
+item.doggytalents.diretreat.name=Kraken's Morsel
+item.doggytalents.breedingbone.name=Matey's Bone
+item.doggytalents.doggycharm.name=Sea-Dog's Trinket
+item.doggytalents.collarshears.name=Collar Snippers
+item.doggytalents.commandemblem.name=Admiral's Seal
+item.doggytalents.radiocollar.name=Whale-Song Collar
+item.doggytalents.woolcollar.name=Soft-Wool Shackles
+item.doggytalents.fancycollar0.name=Royal Loot Collar
+item.doggytalents.fancycollar1.name=Polka-Dot Noose
+item.doggytalents.fancycollar2.name=Rainbow Rigging
+item.doggytalents.radar.name=The Navigator
+item.doggytalents.whistle.name=Boatswain's Pipe
+item.doggytalents.treatbag.name=Duffle of Grub
+item.doggytalents.chewstick.name=Gnawin' Plank
+item.doggytalents.cape.name=Sea-Captain's Cape
+item.doggytalents.sunglasses.name=Lookout's Spectacles
+item.doggytalents.capecoloured.name=Painted Cape
+item.doggytalents.leatherjacket.name=Swashbuckler's Jerkin
+item.doggytalents.tinybone.name=Wee Bone
+item.doggytalents.bigbone.name=Grand Treasure Bone
+
+doggui.talentname.blackpelt=Ink-Black Hide
+doggui.talentname.guarddog=Deck Sentry
+doggui.talentname.hunterdog=Loot Tracker
+doggui.talentname.hellhound=Brimstone Beast
+doggui.talentname.wolfmount=Four-Legged Boat
+doggui.talentname.packpuppy=Cargo Mutt
+doggui.talentname.pillowpaw=Ghostly Tread
+doggui.talentname.quickhealer=Fast Mender
+doggui.talentname.creepersweeper=Powder-Keg Sniffer
+doggui.talentname.doggydash=Full Sail
+doggui.talentname.fisherdog=Harpooner
+doggui.talentname.happyeater=Gluttonous Scallywag
+doggui.talentname.bedfinder=Berth Navigator
+doggui.talentname.pestfighter=Rat Catcher
+doggui.talentname.poisonfang=Venomous Gnashers
+doggui.talentname.shepherddog=Flock Herder
+doggui.talentname.rescuedog=Lifeboat Hound
+doggui.talentname.puppyeyes=Beguiling Gaze
+doggui.talentname.swimmerdog=Deep-Sea Diver
+
+doggui.talentinfo.bedfinder=While this beast perches on your noggin, your berth shall be marked with ink! Toss a bone to get 'em up there. Ranges further as they find their sea legs.
+doggui.talentinfo.blackpelt=Strikes with the fury of a storm! Deals more damage as the beast grows stronger.
+doggui.talentinfo.guarddog=The beast learns to parry blows like a master duelist!
+doggui.talentinfo.hunterdog=Gives a chance to double the booty from any foe the beast strikes down!
+doggui.talentinfo.hellhound=The beast breathes the fires of Davy Jones! Master it, and the flames shall never harm 'em.
+doggui.talentinfo.wolfmount=Ride your beast like a sturdy vessel! They jump higher as they gain more notches on their collar.
+doggui.talentinfo.packpuppy=Grants the beast a hold to carry your loot! Open the hold with a timber plank in hand.
+doggui.talentinfo.pillowpaw=The beast lands as soft as a cloud. At full rank, they float like a ghost!
+doggui.talentinfo.quickhealer=Mends their wounds faster! Resting at the dock (sitting) doubles the speed.
+doggui.talentinfo.creepersweeper=Warns of those green powder-kegs before they blow your ship to splinters!
+doggui.talentinfo.doggydash=Catch the wind! Your beast moves faster when chasing prey or carrying a rider.
+doggui.talentinfo.fisherdog=Your beast dives for treasures of the deep! At max rank, they breathe like a fish.
+doggui.talentinfo.happyeater=Your beast can stomach even the nastiest of rations, including rotten flesh and raw fish.
+doggui.talentinfo.pestfighter=Crushes the silver-rats that hide in the stone.
+doggui.talentinfo.poisonfang=Bites with a viper's sting! Can even cure the Captain if you give 'em a spider's eye.
+doggui.talentinfo.shepherddog=Hold some wheat to make your beast round up the livestock like a true bosun!
+doggui.talentinfo.rescuedog=When your health is in the locker, your beast shall mend your wounds for a price of hunger.
+doggui.talentinfo.puppyeyes=Charms the land-lubbing villagers into handing over their booty!
+doggui.talentinfo.swimmerdog=Ride your beast through the waves! Grants the Captain vision in the murky depths.
+
+doggui.modename.wandering=Shore Leave
+doggui.modename.tactical=Privateer
+doggui.modename.aggressive=Pirate Fury
+doggui.modename.berserker=Freebooter
+doggui.modename.docile=Peaceful Sails
+doggui.modename.patrol=Deck Watch
+
+doggui.modetip.wandering=(W)
+doggui.modetip.tactical=(T)
+doggui.modetip.aggressive=(A)
+doggui.modetip.berserker=(B)
+doggui.modetip.docile=(D)
+doggui.modetip.patrol=(P)
+doggui.modetip.incapacitated=(I)
+
+doggui.modeinfo.wandering=The beast stays near their basin and waits for your word.
+doggui.modeinfo.tactical=The beast follows but only strikes when you signal with the Admiral's Seal.
+doggui.modeinfo.aggressive=The beast follows and strikes anyone who dares cross the Captain!
+doggui.modeinfo.berserker=The beast strikes any scallywag that gets too close, no warning given!
+doggui.modeinfo.docile=The beast follows peacefully, waiting to play with their marrow bone.
+doggui.modeinfo.patrol=The beast guards the perimeter between set markers and strikes all monsters.
+
+doggui.mode.docile.nobowl=No basin found in these waters!
+doggui.mode.docile.bowl=Basin distance: %d leagues
+
+doggui.prevpage=Back to Port
+doggui.nextpage=Sail Onward
+doggui.newname=New Title:
+doggui.level=Experience:
+doggui.leveldire=Dire Rank:
+doggui.pointsleft=Booty Remaining:
+doggui.textureindex=Coat Pattern
+doggui.obeyothers=Heed Other Captains?
+doggui.friendlyfire=Strike Fellow Mates?
+
+dogtalent.puppyeyes.1.part1=Villager: Fine beast ye got there! Keep 'em fed.
+dogtalent.puppyeyes.1.part2=Take this bit o' pork, lad.
+dogtalent.puppyeyes.5.part1=Villager: That be the finest hound on the Seven Seas!
+dogtalent.puppyeyes.5.part3=Here, take this shiny diamond!
+
+dogtalent.puppyeyes.wolfmount.outofhunger=%s: Arrrf! Arrf! (Grub, Captain!)
+
+dogtreat.levelup=Rank Up!
+dogtreat.tooyoung=This pup hasn't earned its sea legs yet.
+dogtreat.leveltoohigh=This hound's too salty for these treats.
+dogtreat.ultimatelevel=Huzzah! Your beast is a Legend of the Sea!
+
+dogcommand.come=Assemble!
+dogcommand.stay=Drop Anchor!
+dogcommand.ok=Aye Aye!
+dogcommand.heel=To My Side!
+
+entity.doggytalents:dog.lost.name=No Captain to sail with
+container.packpuppy=Beast's Hold
+container.foodBowl=Grub Basin
+container.doggytalents.treatbag=Duffle of Hardtack
+itemGroup.doggytalents=Doggy Riches
+itemGroup.doggytalents.dogbed=Nautical Berths
