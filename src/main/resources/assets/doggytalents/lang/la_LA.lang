@@ -1,0 +1,92 @@
+tile.doggytalents.dogbed.name=Lectus Canis
+tile.doggytalents.foodbowl.name=Patina Cibaria
+tile.doggytalents.dogbath.name=Balneum Canis
+
+title.doggytalents.config.name=Configurationes Facultatum Canis
+modgui.config.doggysettings=Optiones Canis
+modgui.config.doggysettings.tooltip=Hic singula de cane tuo mutare potes.
+modgui.config.general=Configurationes Generales
+modgui.config.general.tooltip=Res aliae
+modgui.config.talents=Facultates
+modgui.config.talents.tooltip=Facultates sinit et vetat
+
+item.doggytalents.throwbone0.name=Os Iaciendum
+item.doggytalents.throwbone1.name=Os Salivosum Iaciendum
+item.doggytalents.throwbone2.name=Baculum Iaciendum
+item.doggytalents.throwbone3.name=Baculum Salivosum Iaciendum
+item.doggytalents.trainingtreat.name=Esca Exercitationis
+item.doggytalents.supertreat.name=Esca Optima
+item.doggytalents.mastertreat.name=Esca Magistri
+item.doggytalents.diretreat.name=Esca Atrox
+item.doggytalents.breedingbone.name=Os Generationis
+item.doggytalents.doggycharm.name=Amuletum Canis
+item.doggytalents.collarshears.name=Forfex Millus
+item.doggytalents.commandemblem.name=Insigne Imperii
+item.doggytalents.radiocollar.name=Millus Sonorus
+item.doggytalents.woolcollar.name=Millus Laneus
+item.doggytalents.fancycollar0.name=Millus Creativus
+item.doggytalents.fancycollar1.name=Millus Maculosus
+item.doggytalents.fancycollar2.name=Millus Versicolor
+item.doggytalents.radar.name=Indicator
+item.doggytalents.whistle.name=Fistula
+item.doggytalents.treatbag.name=Saccus Escae
+item.doggytalents.chewstick.name=Baculum commanducandum
+item.doggytalents.cape.name=Paenula Scotica
+item.doggytalents.sunglasses.name=Perspicilla Canis
+item.doggytalents.capecoloured.name=Paenula Colorata
+item.doggytalents.leatherjacket.name=Tunica Coriacea
+item.doggytalents.tinybone.name=Os Parvulum
+item.doggytalents.bigbone.name=Os Magnum
+
+doggui.talentname.blackpelt=Pellis Nigra
+doggui.talentname.guarddog=Canis Custos
+doggui.talentname.hunterdog=Canis Venaticus
+doggui.talentname.hellhound=Canis Tartareus
+doggui.talentname.wolfmount=Lupus Vector
+doggui.talentname.packpuppy=Catulus Sarcinarius
+doggui.talentname.pillowpaw=Pes Pulvinatus
+doggui.talentname.quickhealer=Sanator Celer
+doggui.talentname.creepersweeper=Venator Repentium
+doggui.talentname.doggydash=Cursus Canis
+doggui.talentname.fisherdog=Canis Piscator
+doggui.talentname.happyeater=Manducus Laetus
+doggui.talentname.bedfinder=Indagator Lecti
+doggui.talentname.pestfighter=Debellator Bestiolarum
+doggui.talentname.poisonfang=Dens Venenatus
+doggui.talentname.shepherddog=Canis Pastoralis
+doggui.talentname.rescuedog=Canis Servator
+doggui.talentname.puppyeyes=Oculi Catuli
+doggui.talentname.swimmerdog=Canis Natator
+
+doggui.talentinfo.bedfinder=Cum canis hac peritia praeditus in capite tuo sit, lectus tuus linea nigra circumscribetur. Ad canem in capite ponendum, os manu tenens dextra manu eum preme. Spatium est CC quadrata per gradum, sed infinitum gradu V.
+doggui.talentinfo.blackpelt=Meliorat ratem ictus critici per dimidium cordis pro gradu, et cor additum cum eam perfeceris.
+doggui.talentinfo.guarddog=Auget fortunam qua canis tuus impetum physicum prorsus prohibebit.
+doggui.talentinfo.hunterdog=Quisque gradus dat X centesimas fortunae ut res a cane necatae duplicentur. Gradus V dat X centesimas additas (summa LX).
+doggui.talentinfo.hellhound=Sinit canem res incendere dum pugnat. Quo altior gradus, eo diutius ignis manet. Peritia perfecta canem ab igne incolumem praestat.
+doggui.talentinfo.wolfmount=Sinit te cane celeriter vehi. Quisque gradus sinit canem altius salire. Ad ascendendum, manu vacua sali et canem preme.
+doggui.talentinfo.packpuppy=Quisque gradus dat III locos armarii in indice suo. Ad indicem aperiendum, asserem manu tenens canem dextra manu preme. Gradu V, canis res vicinas sponte colliget.
+
+doggui.modename.wandering=Vagans
+doggui.modename.tactical=Tacticus
+doggui.modename.aggressive=Ferox
+doggui.modename.berserker=Furens
+doggui.modename.docile=Mansuetus
+doggui.modename.patrol=Custodiens
+
+doggui.prevpage=Pagina Prior
+doggui.nextpage=Pagina Proxima
+doggui.newname=Nomen novum:
+doggui.level=Gradus:
+doggui.pointsleft=Puncta Reliqua:
+
+dogtreat.levelup=Gradus auctus!
+dogtreat.tooyoung=Hic canis iunior est quam ut artes discat.
+dogtreat.ultimatelevel=GRATULATIO! Canis tuus gradum ultimum attigit!
+
+dogcommand.come=Veni!
+dogcommand.stay=Mane!
+dogcommand.ok=Fiat!
+dogcommand.heel=Ad pedem!
+
+entity.doggytalents:dog.name=Canis
+entity.doggytalents:dog.lost.name=Dominum non habet
