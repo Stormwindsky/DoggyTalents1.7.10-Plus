@@ -37,7 +37,7 @@ Doggy Talents [![Curseforge](http://cf.way2muchnoise.eu/full_doggy-talents_downl
 - Close Minecraft once it is open and find you Minecraft installation directory (PC : %appadata%/.minecraft, MAC : minecraft folder)
 - In the .minecraft folder, there will be a new folder called 'mods'
   - If you want to, you can create a folder named with the version of Minecraft your running within the mods folder.
-- Download the mod from [here](https://mods.curse.com/mc-mods/minecraft/271050-doggy-talents), then drag n' drop the mod into the mods folder (or in the version folder you created).
+- Download the mod from [here](https://www.curseforge.com/minecraft/mc-mods/doggy-talents), then drag n' drop the mod into the mods folder (or in the version folder you created).
 - Run Minecraft and enjoy!
 
 #### Server
