@@ -1,0 +1,89 @@
+tile.doggytalents.dogbed.name=supa lape soweli
+tile.doggytalents.foodbowl.name=poki moku soweli
+tile.doggytalents.dogbath.name=telo pi pona soweli
+
+title.doggytalents.config.name=ante pi pali soweli
+modgui.config.doggysettings=ante soweli
+modgui.config.doggysettings.tooltip=ni la sina ken ante e soweli sina.
+modgui.config.general=ante pi pali ali
+modgui.config.general.tooltip=ijo ante
+modgui.config.talents=ken soweli
+modgui.config.talents.tooltip=o open o pini e ken soweli
+
+item.doggytalents.throwbone0.name=palisa kiwen pi pana musi
+item.doggytalents.throwbone1.name=palisa kiwen pi telo uta
+item.doggytalents.throwbone2.name=palisa kasi pi pana musi
+item.doggytalents.throwbone3.name=palisa kasi pi telo uta
+item.doggytalents.trainingtreat.name=moku pona pi kama sona
+item.doggytalents.supertreat.name=moku pona suli
+item.doggytalents.mastertreat.name=moku pona pi jan lawa
+item.doggytalents.diretreat.name=moku pona pi wawa suli
+item.doggytalents.breedingbone.name=kiwen pi mama soweli
+item.doggytalents.doggycharm.name=ijo pi olin soweli
+item.doggytalents.collarshears.name=ilo kipisi pi linja lawa
+item.doggytalents.commandemblem.name=sitelen pi pana wile
+item.doggytalents.radiocollar.name=linja lawa pi toki kalama
+item.doggytalents.woolcollar.name=linja lawa pi ko soweli
+item.doggytalents.fancycollar0.name=linja lawa pona lukin
+item.doggytalents.fancycollar1.name=linja lawa pi sitelen suli
+item.doggytalents.fancycollar2.name=linja lawa pi kule ali
+item.doggytalents.radar.name=ilo alasa
+item.doggytalents.whistle.name=ilo kalama uta
+item.doggytalents.treatbag.name=poki pi moku pona
+item.doggytalents.chewstick.name=palisa moku
+item.doggytalents.cape.name=len monsi
+item.doggytalents.sunglasses.name=ilo sinpin oko
+item.doggytalents.capecoloured.name=len monsi kule
+item.doggytalents.leatherjacket.name=len selo soweli
+item.doggytalents.tinybone.name=kiwen lili
+item.doggytalents.bigbone.name=kiwen suli
+
+doggui.talentname.blackpelt=selo pimey
+doggui.talentname.guarddog=soweli awen
+doggui.talentname.hunterdog=soweli alasa
+doggui.talentname.hellhound=soweli seli
+doggui.talentname.wolfmount=soweli tawa
+doggui.talentname.packpuppy=soweli poki
+doggui.talentname.pillowpaw=noka suwi
+doggui.talentname.quickhealer=pona lili
+doggui.talentname.creepersweeper=alasa pi ike seli
+doggui.talentname.doggydash=tawa wawa
+doggui.talentname.fisherdog=alasa kala
+doggui.talentname.happyeater=moku pona
+doggui.talentname.bedfinder=alasa supa
+doggui.talentname.pestfighter=moli pi lili ike
+doggui.talentname.poisonfang=uta moli
+doggui.talentname.shepherddog=soweli mani
+doggui.talentname.rescuedog=soweli pi pona sijelo
+doggui.talentname.puppyeyes=oko olin
+doggui.talentname.swimmerdog=soweli telo
+
+doggui.modename.wandering=tawa tawa
+doggui.modename.tactical=utala pona
+doggui.modename.aggressive=utala wawa
+doggui.modename.berserker=moli ali
+doggui.modename.docile=pona li musi
+doggui.modename.patrol=awen ma
+
+doggui.prevpage=lipu pini
+doggui.nextpage=lipu kama
+doggui.newname=nimi sin:
+doggui.level=suli:
+doggui.pointsleft=ken pi tawa ali:
+
+dogtreat.levelup=sina suli!
+dogtreat.tooyoung=soweli li lili li ken ala kama sona.
+dogtreat.ultimatelevel=pona suli! soweli sina li suli ali!
+
+dogcommand.come=o jaki!
+dogcommand.stay=o awen!
+dogcommand.ok=pona!
+dogcommand.heel=o poka e mi!
+
+entity.doggytalents:dog.name=soweli
+entity.doggytalents:dog.lost.name=jan lawa li lon ala
+
+container.packpuppy=poki soweli
+container.foodBowl=poki moku
+container.doggytalents.treatbag=poki moku pona
+itemGroup.doggytalents=ijo soweli pona
