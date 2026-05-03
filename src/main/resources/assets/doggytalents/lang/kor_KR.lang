@@ -1,0 +1,144 @@
+# Blocs (Blocks)
+tile.doggytalents.dogbed.name=개 침대
+tile.doggytalents.foodbowl.name=먹이 그릇
+tile.doggytalents.dogbath.name=개 욕조
+
+# Configuration
+title.doggytalents.config.name=Doggy Talents 설정
+modgui.config.doggysettings=강아지 설정
+modgui.config.doggysettings.tooltip=여기에서 강아지에 대한 세부 사항을 변경할 수 있습니다.
+modgui.config.general=일반 설정
+modgui.config.general.tooltip=기타 옵션
+modgui.config.talents=재능
+modgui.config.talents.tooltip=재능 활성화 및 비활성화
+
+# Objets (Items)
+item.doggytalents.throwbone0.name=던지는 뼈다귀
+item.doggytalents.throwbone1.name=침 묻은 던지는 뼈다귀
+item.doggytalents.throwbone2.name=던지는 막대기
+item.doggytalents.throwbone3.name=침 묻은 던지는 막대기
+item.doggytalents.trainingtreat.name=훈련용 간식
+item.doggytalents.supertreat.name=슈퍼 간식
+item.doggytalents.mastertreat.name=마스터 간식
+item.doggytalents.diretreat.name=불길한 간식
+item.doggytalents.breedingbone.name=번식용 뼈다귀
+item.doggytalents.doggycharm.name=강아지 참
+item.doggytalents.collarshears.name=목줄용 가위
+item.doggytalents.commandemblem.name=명령 휘장
+item.doggytalents.radiocollar.name=무선 목줄
+item.doggytalents.woolcollar.name=양모 목줄
+item.doggytalents.fancycollar0.name=창의적인 목줄
+item.doggytalents.fancycollar1.name=도트무늬 목줄
+item.doggytalents.fancycollar2.name=다색 목줄
+item.doggytalents.radar.name=레이더
+item.doggytalents.whistle.name=호루라기
+item.doggytalents.treatbag.name=간식 주머니
+item.doggytalents.chewstick.name=씹는 막대기
+item.doggytalents.cape.name=타탄 망토
+item.doggytalents.sunglasses.name=강아지용 선글라스
+item.doggytalents.capecoloured.name=색칠된 망토
+item.doggytalents.leatherjacket.name=가죽 자켓
+item.doggytalents.tinybone.name=작은 뼈다귀
+item.doggytalents.bigbone.name=큰 뼈다귀
+
+# Noms des Talents (Talent Names)
+doggui.talentname.blackpelt=검은 모피
+doggui.talentname.guarddog=경비견
+doggui.talentname.hunterdog=사냥견
+doggui.talentname.hellhound=지옥견
+doggui.talentname.wolfmount=늑대 탈것
+doggui.talentname.packpuppy=짐꾼 강아지
+doggui.talentname.pillowpaw=폭신한 발바닥
+doggui.talentname.quickhealer=빠른 치유
+doggui.talentname.creepersweeper=크리퍼 탐지기
+doggui.talentname.doggydash=강아지 질주
+doggui.talentname.fisherdog=낚시견
+doggui.talentname.happyeater=대식가
+doggui.talentname.bedfinder=침대 찾기
+doggui.talentname.pestfighter=해충 구제꾼
+doggui.talentname.poisonfang=독니
+doggui.talentname.shepherddog=양치기 개
+doggui.talentname.rescuedog=구조견
+doggui.talentname.puppyeyes=강아지 눈망울
+doggui.talentname.swimmerdog=수영견
+
+# Infos sur les Talents (Talent Info)
+doggui.talentinfo.bedfinder=강아지가 당신의 머리 위에 있을 때 침대가 검은색 테두리로 표시됩니다. 뼈다귀를 들고 우클릭하면 강아지를 머리에 얹을 수 있습니다. 범위는 레벨당 200블록이며 레벨 5에서는 무제한입니다.
+doggui.talentinfo.blackpelt=레벨당 치명타 피해량이 하트 반 칸씩 증가하며, 마스터 등급에서는 하트 한 칸이 추가로 증가합니다.
+doggui.talentinfo.guarddog=강아지가 물리 공격을 완전히 방어할 확률이 증가합니다.
+doggui.talentinfo.hunterdog=레벨당 10% 확률로 사냥한 전리품이 두 배가 됩니다 (최대 60%).
+doggui.talentinfo.hellhound=공격 시 적에게 불을 붙입니다. 레벨이 높을수록 불이 더 오래 지속되며, 마스터 등급에서는 강아지가 화염 면역이 됩니다.
+doggui.talentinfo.wolfmount=강아지를 탈 수 있게 됩니다. 레벨당 점프 높이가 증가합니다. 빈손으로 점프하면서 우클릭하면 탈 수 있습니다.
+doggui.talentinfo.packpuppy=레벨당 3칸의 인벤토리가 제공됩니다. 판자를 들고 우클릭하여 엽니다. 레벨 5에서는 아이템을 자동으로 줍습니다.
+doggui.talentinfo.pillowpaw=레벨당 낙하 피해를 3블록만큼 줄여줍니다. 마스터 등급에서는 낙하 피해 면역 및 물 위를 걷는 것이 가능해집니다.
+doggui.talentinfo.quickhealer=자연 치유 속도가 향상됩니다. 마스터 등급에서는 앉아 있을 때 치유 속도가 50% 빨라집니다.
+doggui.talentinfo.creepersweeper=주변에 크리퍼가 있으면 으르렁거립니다. 레벨당 범위가 6블록씩 증가하며 마스터 등급에서는 크리퍼를 공격해 폭발을 초기화합니다.
+doggui.talentinfo.doggydash=사냥 중이거나 타고 있을 때 이동 속도가 레벨당 12% 증가합니다 (마스터 시 15% 보너스).
+doggui.talentinfo.fisherdog=물속에서 물고기를 잡습니다. 레벨이 높을수록 확률이 증가하며 '지옥견' 재능이 있으면 익힌 물고기를 잡을 수도 있습니다. 최고 레벨에서는 수중 호흡이 가능합니다.
+doggui.talentinfo.happyeater=먹이로 얻는 허기 회복량이 레벨당 10% 증가합니다. 레벨 3은 좀비 고기, 레벨 5는 물고기를 먹을 수 있습니다.
+doggui.talentinfo.pestfighter=주변 좀벌레에게 1의 피해를 줍니다. 레벨당 범위가 3블록 증가하며 마스터 시 피해량이 두 배가 됩니다.
+doggui.talentinfo.poisonfang=공격 시 대상에게 독을 겁니다. 레벨 3에서는 독 면역이 되며 마스터 등급에서는 거미 눈을 사용해 주인을 해독할 수 있습니다.
+doggui.talentinfo.shepherddog=밀을 들고 있으면 강아지가 주변 가축을 등에 업어 운반을 돕습니다 (허기 소모). 밀을 내려놓으면 가축을 내려놓습니다.
+doggui.talentinfo.rescuedog=주인의 체력이 낮을 때 허기를 소모해 하트 반 칸씩 치유해줍니다.
+doggui.talentinfo.puppyeyes=강아지가 마을 주민을 매료시켜 선물을 받게 합니다 (최소 1~2일 주기).
+doggui.talentinfo.swimmerdog=물속에서 강아지를 탈 수 있고 호흡 시간이 늘어납니다. 최고 레벨에서는 수중 시야가 개선됩니다.
+
+# Modes
+doggui.modename.wandering=배회
+doggui.modename.tactical=전술
+doggui.modename.aggressive=공격적
+doggui.modename.berserker=광전사
+doggui.modename.docile=온순함
+doggui.modename.patrol=순찰
+
+# Interface
+doggui.prevpage=이전 페이지
+doggui.nextpage=다음 페이지
+doggui.newname=새 이름:
+doggui.level=레벨:
+doggui.leveldire=불길한 레벨:
+doggui.pointsleft=남은 포인트:
+doggui.textureindex=텍스처 인덱스
+doggui.obeyothers=다른 플레이어에게 복종?
+doggui.friendlyfire=아군 공격 가능?
+
+# Messages (Puppy Eyes)
+dogtalent.puppyeyes.1.part1=주민: 정말 귀여운 강아지구나! 잘 돌봐주렴.
+dogtalent.puppyeyes.1.part2=여기, 돼지고기 좀 나눠줄게.
+dogtalent.puppyeyes.2.part1=주민: 오오오, 누가 이렇게 착한 강아지일까?
+dogtalent.puppyeyes.2.part2=누가 예쁜 강아지야? 너지! 그래, 너야!
+dogtalent.puppyeyes.3.part1=주민: 세상에! 이런 보석 같은 강아지를
+dogtalent.puppyeyes.3.part2=어디서 찾았니? 여기 철을 줄 테니
+dogtalent.puppyeyes.3.part3=장비를 만들어서 친구를 꼭 지켜주렴!
+dogtalent.puppyeyes.5.part3=그리고 다이아몬드도 줄게!
+
+# Dog Bed (Laine/Planks)
+dogbed.bedding.minecraft:wool.0=하얀색 양모 침구
+dogbed.bedding.minecraft:wool.1=주황색 양모 침구
+dogbed.bedding.minecraft:wool.14=빨간색 양모 침구
+dogbed.bedding.minecraft:wool.15=검은색 양모 침구
+
+dogbed.casing.minecraft:planks.0=참나무 프레임
+dogbed.casing.minecraft:planks.1=문비나무 프레임
+dogbed.casing.minecraft:planks.2=자작나무 프레임
+
+# Status Messages
+dogtreat.levelup=레벨 업!
+dogtreat.tooyoung=이 강아지는 아직 기술을 배우기에 너무 어립니다.
+dogtreat.leveltoohigh=강아지 레벨이 이 간식을 먹기에 너무 높습니다.
+dogtreat.ultimatelevel=축하합니다! 강아지가 최고 레벨에 도달했습니다!
+
+dogcommand.come=일어서!
+dogcommand.stay=기다려!
+dogcommand.ok=자유!
+dogcommand.heel=이리와!
+
+# Keybinds
+doggytalents.key.come=명령: 일어서
+doggytalents.key.stay=명령: 기다려
+doggytalents.key.ok=명령: 자유
+doggytalents.key.heel=명령: 이리와
+
+# Groups
+itemGroup.doggytalents=Doggy Talents
+itemGroup.doggytalents.dogbed=개 침대 종류
