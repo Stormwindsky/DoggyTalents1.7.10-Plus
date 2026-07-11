@@ -4,7 +4,22 @@
 
 This is a work-in-progress version created by me, Stormwindsky, to add new features without affecting the base 1.7.10 mod. For now, I'm just going to add additional translations to this mod.
 
+# DoggyTalents 1.7.10-Plus (Development Setup)
 
+This repository contains the updated source code for DoggyTalents 1.7.10-Plus, built using the modern **RetroFuturaGradle (RFG)** toolchain. 
+
+Follow the guide below to set up your development environment on **Linux Mint** (or any Ubuntu-based distribution) and compile the mod.
+
+---
+
+## Prerequisites (What to Install)
+
+Before running any commands, you need to install **Java 17** and **Git** on your system. 
+
+Open your terminal and run the following command to update your package list and install the required packages:
+
+```bash
+sudo apt update && sudo apt install openjdk-17-jdk git -y
 
 # Original Readme from the original fork from the continuation of 1.7.10
 
