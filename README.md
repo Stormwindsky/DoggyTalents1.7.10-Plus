@@ -1,12 +1,12 @@
-
-# About DoggyTalents 1.7.10 Plus:
-
+# About DoggyTalents 1.7.10 Plus
 
 This is a work-in-progress version created by me, Stormwindsky, to add new features without affecting the base 1.7.10 mod. For now, I'm just going to add additional translations to this mod.
 
+You can visit my website to see this GitHub repository converted into a visual representation of the style of CurseForge / Modrinth sites, which you can find here: [GitMod](https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=DoggyTalents1.7.10-Plus).
+
 # DoggyTalents 1.7.10-Plus (Development Setup)
 
-This repository contains the updated source code for DoggyTalents 1.7.10-Plus, built using the modern **RetroFuturaGradle (RFG)** toolchain. 
+This repository contains the updated source code for DoggyTalents 1.7.10-Plus, built using the modern **RetroFuturaGradle (RFG)** toolchain.
 
 Follow the guide below to set up your development environment on **Linux Mint** (or any Ubuntu-based distribution) and compile the mod.
 
@@ -14,20 +14,22 @@ Follow the guide below to set up your development environment on **Linux Mint** 
 
 ## Prerequisites (What to Install)
 
-Before running any commands, you need to install **Java 17** and **Git** on your system. 
+Before running any commands, you need to install **Java 17** and **Git** on your system.
 
 Open your terminal and run the following command to update your package list and install the required packages:
 
 ```bash
 sudo apt update && sudo apt install openjdk-17-jdk git -y
+```
+
+---
 
 # Original Readme from the original fork from the continuation of 1.7.10
 
-
-Doggy Talents [![Curseforge](http://cf.way2muchnoise.eu/full_doggy-talents_downloads.svg)](https://minecraft.curseforge.com/projects/doggy-talents) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_doggy-talents_all.svg)](https://minecraft.curseforge.com/projects/doggy-talents)
+Doggy Talents [![Curseforge](http://cf.way2muchnoise.eu/full_doggy-talents_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/doggy-talents) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_doggy-talents_all.svg)](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 ===========
 
-<p align="center"><img src="https://github.com/ProPercivalalb/DoggyTalents/blob/master/images/logo.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ProPercivalalb/DoggyTalents/master/images/logo.PNG"></p>
 <p align="center">A day dogs would not drown!</p>
 
 **Doggy Talents** is a **Minecraft Forge mod** that adds **brand new wolf AI and adds special abilities that your dog can learn!**
@@ -40,29 +42,29 @@ Doggy Talents [![Curseforge](http://cf.way2muchnoise.eu/full_doggy-talents_downl
 - Fix https://github.com/quentin452/DoggyTalents/issues/21
 - Fix https://github.com/quentin452/DoggyTalents/issues/18
 - Fix https://github.com/quentin452/DoggyTalents/issues/11
-- Partialy Fix https://github.com/quentin452/DoggyTalents/issues/1
+- Partially Fix https://github.com/quentin452/DoggyTalents/issues/1
 
 ### Installation Instructions (Only for the new launchers)
 
 #### Client
 - Make sure you have the new Minecraft launcher and have run it at least once.
-- Then download a Minecraft Forge from the offical site [link](https://files.minecraftforge.net/).
+- Then download Minecraft Forge from the official site [link](https://files.minecraftforge.net/).
 - Run the Installer jar and select the 'Install client' option and click OK. Minecraft Forge should now be installed!
-- Now open up the launcher and in the profile selector select 'Forge', login and run Minecraft (This may take a while).
-- Close Minecraft once it is open and find you Minecraft installation directory (PC : %appadata%/.minecraft, MAC : minecraft folder)
-- In the .minecraft folder, there will be a new folder called 'mods'
-  - If you want to, you can create a folder named with the version of Minecraft your running within the mods folder.
+- Now open up the launcher and in the profile selector select 'Forge', login and run Minecraft (this may take a while).
+- Close Minecraft once it is open and find your Minecraft installation directory (PC: `%appdata%/.minecraft`, Mac: `minecraft` folder).
+- In the `.minecraft` folder, there will be a new folder called `mods`.
+  - If you want to, you can create a folder named with the version of Minecraft you're running within the mods folder.
 - Download the mod from [here](https://www.curseforge.com/minecraft/mc-mods/doggy-talents), then drag n' drop the mod into the mods folder (or in the version folder you created).
 - Run Minecraft and enjoy!
 
 #### Server
-- Then download a Minecraft Forge from the offical site [link](https://files.minecraftforge.net/).
+- Download Minecraft Forge from the official site [link](https://files.minecraftforge.net/).
 - Once you have either the jar or exe installation of Minecraft Forge downloaded, open it up.
-- Run the Installer jar and select the 'Install server' option and click OK. Minecraft Forge should now be installed with a new folder and files: `libraries` folder, `minecraft_server.####.jar`, and `forge-####-######.jar`
-- Now double click the forge jar and let it run, the console should tell you to accept Mojang's EULA
-- At this point, open the eula.txt file that was generated the first time, set false to true, then save and close the file.
-- Run the forge jar once again, let it setup until it says done in the console, then close it. More files and folders should have appeared.
-- Download the mod from [here](https://mods.curse.com/mc-mods/minecraft/271050-doggy-talents), then drag n' drop the mod into the mods folder created by the server.
+- Run the Installer jar and select the 'Install server' option and click OK. Minecraft Forge should now be installed with a new folder and files: `libraries` folder, `minecraft_server.####.jar`, and `forge-####-######.jar`.
+- Now double click the forge jar and let it run, the console should tell you to accept Mojang's EULA.
+- At this point, open the `eula.txt` file that was generated the first time, set `false` to `true`, then save and close the file.
+- Run the forge jar once again, let it set up until it says done in the console, then close it. More files and folders should have appeared.
+- Download the mod from [here](https://www.curseforge.com/minecraft/mc-mods/doggy-talents), then drag n' drop the mod into the mods folder created by the server.
 - Run the server and enjoy!
 
 -----------------
