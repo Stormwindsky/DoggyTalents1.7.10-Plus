@@ -1,6 +1,10 @@
-# About DoggyTalents 1.7.10 Plus
+# About DoggyTalents 1.7.10 Plus 🐾
 
 This is a work-in-progress version created by me, Stormwindsky, to add new features without affecting the base 1.7.10 mod. For now, I'm just going to add additional translations to this mod.
+
+## What i added on my fork?
+
+For now, I've just added languages that the base forks didn't support, such as Toki Pona, as well as Canadian French, Japanese, and several others.
 
 You can visit my website to see this GitHub repository converted into a visual representation of the style of CurseForge / Modrinth sites, which you can find here: [GitMod](https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=DoggyTalents1.7.10-Plus).
 
@@ -21,6 +25,22 @@ Open your terminal and run the following command to update your package list and
 ```bash
 sudo apt update && sudo apt install openjdk-17-jdk git -y
 ```
+
+---
+
+## Notes & Credits:
+
+This version is a fork based on another fork that serves as a continuation of DoggyTalents version 1.7.10, so thanks to quentin452 for creating the Doggy Talents Continuation fork. You can find the source code for this fork here: https://github.com/quentin452/DoggyTalents
+
+And a big thank you to agentely for archiving the older versions of DoggyTalents—the versions from back when it was still under the GPL license before its original creator changed it to the LGPL.
+
+You can find the archived version here: https://github.com/quentin452/DoggyTalents
+
+And a huge thank you to the original creator of this mod—a big thank you to percivalalb for creating the DoggyTalents mod (please note that the new versions are licensed under LGPL-3.0, but the fork created by agentely was forked before the original repository migrated to LGPL-3.0)
+
+You can find the original creator’s repository here:
+
+https://github.com/percivalalb/DoggyTalents
 
 ---
 
