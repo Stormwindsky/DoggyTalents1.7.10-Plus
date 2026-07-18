@@ -18,13 +18,7 @@ Follow the guide below to set up your development environment on **Linux Mint** 
 
 ## Prerequisites (What to Install)
 
-Before running any commands, you need to install **Java 17** and **Git** on your system.
-
-Open your terminal and run the following command to update your package list and install the required packages:
-
-```bash
-sudo apt update && sudo apt install openjdk-17-jdk git -y
-```
+[Here](https://github.com/Stormwindsky/DoggyTalents1.7.10-Plus/blob/1.7.10/SetupTutorial.md)
 
 ---
 
