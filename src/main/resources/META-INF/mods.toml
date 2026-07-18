@@ -1,8 +1,8 @@
 modLoader="javafml"
 loaderVersion="${fml_version_range}"
 license="GNU GPLv3"
-issueTrackerURL="https://github.com/percivalalb/DoggyTalents/issues"
-displayURL="https://minecraft.curseforge.com/projects/doggy-talents/"
+issueTrackerURL="https://github.com/Stormwindsky/DoggyTalents1.7.10-Plus/issues"
+displayURL="https://github.com/Stormwindsky/DoggyTalents1.7.10-Plus/releases/"
 logoFile="dt_logo.png"
 [[mods]] #mandatory
     modId="doggytalents"
